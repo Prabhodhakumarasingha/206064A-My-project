@@ -5,6 +5,9 @@ import random
 import threading
 from pygame_gui import UIManager
 
+#this line added by friend to do some changes
+print("welcome to the game")
+
 # Difficulty settings
 difficulty = 25
 
